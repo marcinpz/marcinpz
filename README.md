@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcinpz
+- 👋 Hi, I’m Marcin
 - 👀 I’m interested in science, technology, natural life, religion 
 - 🌱 I’m currently learning how to be better DevOps
 - 📫 How to reach me:
